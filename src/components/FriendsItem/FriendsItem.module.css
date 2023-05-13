@@ -1,0 +1,24 @@
+.friend {
+  display: flex;
+  gap: 10px;
+  width: 400px;
+  margin: 0px auto;
+  align-items: center;
+  border: 1px solid #8f8e8e;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.status {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+.avatar {
+  margin: 0px;
+}
+.name {
+  font-size: 15px;
+  font-weight: 600;
+}

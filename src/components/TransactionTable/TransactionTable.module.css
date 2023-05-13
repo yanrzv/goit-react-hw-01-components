@@ -1,0 +1,21 @@
+.transactionTableHead {
+    text-transform: uppercase;
+    color: #000;
+
+}
+.tableHeadItem  {
+    background-color: rgb(108, 210, 210);
+    padding: 10px 10px;   
+}
+
+.tableBodyItem {
+    padding: 10px 10px;
+}
+
+.tableBodyList:nth-child(odd) {
+    background-color: #747171;
+}
+
+.tableBodyList:nth-child(even) {
+    background-color: #565353;
+}
